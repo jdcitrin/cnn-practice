@@ -1,0 +1,6 @@
+
+tensorflow==2.16.1 
+tensorflow-metal==1.1.0 
+opencv-python==4.9.0.80 
+matplotlib 
+numpy==1.26.4
